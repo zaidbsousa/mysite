@@ -1,0 +1,259 @@
+#BD {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+}
+
+/* --------Top Box----------- */
+.top-box {
+  background-color: #1D5C63;
+  padding-top: 150px;
+  position: relative;
+  height: 600px;
+  padding-bottom: 0;
+}
+
+.h00 {
+  font-size: 5.625rem;
+  margin: 0;
+  font-family: 'Smooch', cursive;
+  color: #EDE6DB;
+}
+
+.h2p {
+  font-size: 1.5rem;
+  color: #EDE6DB;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skull {
+  position: absolute;
+  right: 260px;
+  top: 120px;
+  width: 14%;
+  transform: scaleX(-1);
+}
+
+.skull-00 {
+  width: 14%;
+  position: absolute;
+  left: 260px;
+  bottom: 410px;
+}
+
+.skull-01 {
+  width: 3%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  left: 250px;
+  top: 720px;
+}
+
+.skull-02 {
+  width: 3%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 250px;
+  top: 720px;
+}
+
+.skull-03 {
+  width: 3%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 765px;
+  top: 720px;
+}
+
+.tree-00 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+}
+
+.tree-01 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 300px;
+  transform: scaleX(-1);
+}
+
+.tree-02 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+}
+
+.tree-03 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+}
+
+.tree-04 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  left: 550px;
+  transform: scaleX(-1);
+}
+
+.tree-05 {
+  width: 15%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  left: 300px;
+}
+
+/* --------Middle Box----------- */
+.middle-box {
+  background-color: #EDE6DB;
+  padding: 50px;
+}
+.profile{
+  margin: auto;
+  width: 50%;
+}
+.hola{
+  color: #005555;
+}
+.profile-hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 50px;
+  background-color: #EDE6DB;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.my-skills{
+  color: #005555;
+}
+.skill-text{
+  color: #005555;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.eth-png{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.depressed-png{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+/*
+.skill-p1{
+  clear: left;
+  unti-flot
+}
+.skill-p2{
+  clear: right;
+  unti-flot
+}
+*/
+
+.contact-me{
+  width: 100%;
+  margin: auto;
+  position: relative;
+}
+.contact-me-title{
+  color: #005555;
+  margin: auto auto 40px auto;
+}
+.contact-me-p{
+font-weight: bold;
+margin: auto auto 40px auto;
+
+}
+.contact-me-submit{
+background-color: #005555;
+color: white;
+font-weight: bold;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 17px;
+border: 0;
+border-radius: 4px;
+}
+.contact-me-submit:hover{
+  background-color: #069A8E;
+}
+/* --------Bottom Box----------- */
+
+.bottom-box {
+  background-color: #1D5C63;
+  height: 130px;
+  padding-top: 50px;
+}
+
+.bottom:{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+.footer-link{
+  margin: 25px;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.end-p{
+  margin-top: 30px;
+  color: white;
+}
+
+.skull-001{
+  width: 3%;
+  margin: 0;
+  position: absolute;
+  top: 2355px;
+  left: 1290px;
+}
+.skull-002{
+  position: absolute;
+  width: 3%;
+  left: 250px;
+  top: 2355px;
+  bottom: 0;
+  right: 0;
+
+}
+.skull-003{
+  position: absolute;
+  width: 3%;
+  top: 2355px;
+  left: auto;
+  right: 765px;
+  bottom: 0;
+}
